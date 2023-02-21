@@ -1,4 +1,4 @@
-<h3>A product manager from <a href="https://www.soulapp.cn/">Soul</a>.</h3>
+<h3>A product manager from <a href="https://www.soulapp.cn/">Soul App</a>.</h3>
 
 I was a game maker and game designer from <a href="https://www.lilith.com/?locale=en-US">Lilith Games</a>
   
