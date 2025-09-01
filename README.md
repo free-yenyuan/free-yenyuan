@@ -4,8 +4,8 @@
 <a href="https://github.com/free-yenyuan/free-yenyuan"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
 <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/free-yenyuan/free-yenyuan.svg?color=blue&logo=github"></a>  
 
-<!--   my-ticker -->    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hi!I'm+Yen!%F0%9F%91%8B+Welcome+to+visit+my+profile!;I+was+a+game+designer+until+2022.;Now+i'm+a+product+manager.)](https://git.io/typing-svg)
+<!--   my-ticker -->   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&width=435&lines=Hi+There!I'm+Yen.;I+was+a+game+designer+until+2022;Now+i'm+a+product+manager+and+wanna+be+a+full-time+day+trader)](https://git.io/typing-svg)
 
 
 <!--   my-skils -->
